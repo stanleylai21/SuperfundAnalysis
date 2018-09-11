@@ -1,0 +1,33 @@
+Human Exposure
+
+Yes: 1041
+No: 97
+Insufficient Data: 166
+
+-----------------------------------
+
+Groundwater under control?
+
+Yes: 850
+No: 174
+Insufficient Data: 242
+Not a Ground Water Site: 38
+
+-----------------------------------
+
+Clean up complete?
+
+Yes: 783
+No: 521
+Insufficient Data: 0
+
+-----------------------------------
+
+Site ready for use?
+
+Yes: 478
+No: 826
+Insufficient Data: 0
+
+-----------------------------------
+
